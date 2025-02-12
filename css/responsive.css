@@ -11,6 +11,12 @@
     .star-rating > ul > li {
         font-size: 13px !important;
     }
+    .welcome-bonus-block span {
+        line-height: 24px;
+        font-size: 14px !important;
+        text-transform: capitalize;
+        font-weight: 700;
+    }
 
     .offer-votes span {
         font-size: 12px !important;
@@ -29,9 +35,9 @@
     }
 
     .offer-btn {
-        width: 10rem;
+        width: 11rem;
         height: 35px;
-        font-size: 13px;
+        font-size: 11px;
     }
 }
 
